@@ -14,5 +14,5 @@
 ![C%2B%2B](https://img.shields.io/badge/C%2B%2B-black?logo=cplusplus)
 ![SQL](https://img.shields.io/badge/SQL-black?logo=postgresql)
 ![SQLite](https://img.shields.io/badge/SQLite-black?logo=sqlite)
-![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=mongodb)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb)
 ![CoppeliaSim](https://img.shields.io/badge/CoppeliaSim-black)
