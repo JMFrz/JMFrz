@@ -1,16 +1,18 @@
-## Hi there 👋
-
-<!--
-**JMFrz/JMFrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![ARM](https://img.shields.io/badge/ARM-black?logo=arm)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-black?logo=eclipseide)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-black?logo=node.js)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-black?logo=springboot)
+![WHILE](https://img.shields.io/badge/WHILE-black)
+![Alloy](https://img.shields.io/badge/Alloy-black)
+![Promela](https://img.shields.io/badge/Promela-black)
+![Haskell](https://img.shields.io/badge/Haskell-black?logo=haskell)
+![Python](https://img.shields.io/badge/Python-black?logo=python)
+![C](https://img.shields.io/badge/C-black?logo=c)
+![C%23](https://img.shields.io/badge/C%23-black?logo=csharp)
+![C%2B%2B](https://img.shields.io/badge/C%2B%2B-black?logo=cplusplus)
+![SQL](https://img.shields.io/badge/SQL-black?logo=postgresql)
+![SQLite](https://img.shields.io/badge/SQLite-black?logo=sqlite)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=mongodb)
+![CoppeliaSim](https://img.shields.io/badge/CoppeliaSim-black)
